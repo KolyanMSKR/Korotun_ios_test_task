@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Korotun_ios_test_task
+//  PokemonViewer
 //
-//  Created by Anderen on 25.09.2025.
+//  Created by Maksym Soroka on 12.09.2025.
 //
 
 import UIKit

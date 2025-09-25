@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F57231BE2E859C4500CAA94B /* Korotun_ios_test_task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Korotun_ios_test_task.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		82BD6FBF2E744EC2005A5A73 /* PokemonViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F57231D02E859C4600CAA94B /* Exceptions for "Korotun_ios_test_task" folder in "Korotun_ios_test_task" target */ = {
+		82BD6FD12E744EC4005A5A73 /* Exceptions for "PokemonViewer" folder in "PokemonViewer" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = F57231BD2E859C4500CAA94B /* Korotun_ios_test_task */;
+			target = 82BD6FBE2E744EC2005A5A73 /* PokemonViewer */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F57231C02E859C4500CAA94B /* Korotun_ios_test_task */ = {
+		82BD6FC12E744EC2005A5A73 /* PokemonViewer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				F57231D02E859C4600CAA94B /* Exceptions for "Korotun_ios_test_task" folder in "Korotun_ios_test_task" target */,
+				82BD6FD12E744EC4005A5A73 /* Exceptions for "PokemonViewer" folder in "PokemonViewer" target */,
 			);
-			path = Korotun_ios_test_task;
+			path = PokemonViewer;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F57231BB2E859C4500CAA94B /* Frameworks */ = {
+		82BD6FBC2E744EC2005A5A73 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F57231B52E859C4500CAA94B = {
+		82BD6FB62E744EC2005A5A73 = {
 			isa = PBXGroup;
 			children = (
-				F57231C02E859C4500CAA94B /* Korotun_ios_test_task */,
-				F57231BF2E859C4500CAA94B /* Products */,
+				82BD6FC12E744EC2005A5A73 /* PokemonViewer */,
+				82BD6FC02E744EC2005A5A73 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F57231BF2E859C4500CAA94B /* Products */ = {
+		82BD6FC02E744EC2005A5A73 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F57231BE2E859C4500CAA94B /* Korotun_ios_test_task.app */,
+				82BD6FBF2E744EC2005A5A73 /* PokemonViewer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F57231BD2E859C4500CAA94B /* Korotun_ios_test_task */ = {
+		82BD6FBE2E744EC2005A5A73 /* PokemonViewer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F57231D12E859C4600CAA94B /* Build configuration list for PBXNativeTarget "Korotun_ios_test_task" */;
+			buildConfigurationList = 82BD6FD22E744EC4005A5A73 /* Build configuration list for PBXNativeTarget "PokemonViewer" */;
 			buildPhases = (
-				F57231BA2E859C4500CAA94B /* Sources */,
-				F57231BB2E859C4500CAA94B /* Frameworks */,
-				F57231BC2E859C4500CAA94B /* Resources */,
+				82BD6FBB2E744EC2005A5A73 /* Sources */,
+				82BD6FBC2E744EC2005A5A73 /* Frameworks */,
+				82BD6FBD2E744EC2005A5A73 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F57231C02E859C4500CAA94B /* Korotun_ios_test_task */,
+				82BD6FC12E744EC2005A5A73 /* PokemonViewer */,
 			);
-			name = Korotun_ios_test_task;
+			name = PokemonViewer;
 			packageProductDependencies = (
 			);
-			productName = Korotun_ios_test_task;
-			productReference = F57231BE2E859C4500CAA94B /* Korotun_ios_test_task.app */;
+			productName = PokemonViewer;
+			productReference = 82BD6FBF2E744EC2005A5A73 /* PokemonViewer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F57231B62E859C4500CAA94B /* Project object */ = {
+		82BD6FB72E744EC2005A5A73 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 2600;
-				LastUpgradeCheck = 2600;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					F57231BD2E859C4500CAA94B = {
-						CreatedOnToolsVersion = 26.0;
+					82BD6FBE2E744EC2005A5A73 = {
+						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = F57231B92E859C4500CAA94B /* Build configuration list for PBXProject "Korotun_ios_test_task" */;
+			buildConfigurationList = 82BD6FBA2E744EC2005A5A73 /* Build configuration list for PBXProject "PokemonViewer" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = F57231B52E859C4500CAA94B;
+			mainGroup = 82BD6FB62E744EC2005A5A73;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F57231BF2E859C4500CAA94B /* Products */;
+			productRefGroup = 82BD6FC02E744EC2005A5A73 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F57231BD2E859C4500CAA94B /* Korotun_ios_test_task */,
+				82BD6FBE2E744EC2005A5A73 /* PokemonViewer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F57231BC2E859C4500CAA94B /* Resources */ = {
+		82BD6FBD2E744EC2005A5A73 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F57231BA2E859C4500CAA94B /* Sources */ = {
+		82BD6FBB2E744EC2005A5A73 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,18 +138,18 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F57231D22E859C4600CAA94B /* Debug */ = {
+		82BD6FD32E744EC4005A5A73 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = TAYA99N6BS;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Korotun_ios_test_task/Info.plist;
+				INFOPLIST_FILE = PokemonViewer/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -157,30 +157,26 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "MK.Korotun-ios-test-task";
+				PRODUCT_BUNDLE_IDENTIFIER = com.obrio.test.PokemonViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		F57231D32E859C4600CAA94B /* Release */ = {
+		82BD6FD42E744EC4005A5A73 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = TAYA99N6BS;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Korotun_ios_test_task/Info.plist;
+				INFOPLIST_FILE = PokemonViewer/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -188,19 +184,15 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "MK.Korotun-ios-test-task";
+				PRODUCT_BUNDLE_IDENTIFIER = com.obrio.test.PokemonViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		F57231D42E859C4600CAA94B /* Debug */ = {
+		82BD6FD52E744EC4005A5A73 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -235,7 +227,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = TAYA99N6BS;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -253,7 +244,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -264,7 +255,7 @@
 			};
 			name = Debug;
 		};
-		F57231D52E859C4600CAA94B /* Release */ = {
+		82BD6FD62E744EC4005A5A73 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -299,7 +290,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = TAYA99N6BS;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -311,7 +301,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -324,25 +314,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F57231B92E859C4500CAA94B /* Build configuration list for PBXProject "Korotun_ios_test_task" */ = {
+		82BD6FBA2E744EC2005A5A73 /* Build configuration list for PBXProject "PokemonViewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F57231D42E859C4600CAA94B /* Debug */,
-				F57231D52E859C4600CAA94B /* Release */,
+				82BD6FD52E744EC4005A5A73 /* Debug */,
+				82BD6FD62E744EC4005A5A73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F57231D12E859C4600CAA94B /* Build configuration list for PBXNativeTarget "Korotun_ios_test_task" */ = {
+		82BD6FD22E744EC4005A5A73 /* Build configuration list for PBXNativeTarget "PokemonViewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F57231D22E859C4600CAA94B /* Debug */,
-				F57231D32E859C4600CAA94B /* Release */,
+				82BD6FD32E744EC4005A5A73 /* Debug */,
+				82BD6FD42E744EC4005A5A73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F57231B62E859C4500CAA94B /* Project object */;
+	rootObject = 82BD6FB72E744EC2005A5A73 /* Project object */;
 }
